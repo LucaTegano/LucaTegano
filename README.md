@@ -4,6 +4,7 @@ I love building efficient and scalable solutions and collaborating on open-sourc
 
 🔧 Tech Stack:
 Languages: JavaScript, Python
+
 Frameworks/Libraries: React
 Tools: Git
 
