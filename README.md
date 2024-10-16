@@ -6,6 +6,7 @@ I love building efficient and scalable solutions and collaborating on open-sourc
 Languages: JavaScript, Python
 
 Frameworks/Libraries: React
+
 Tools: Git
 
 Happy coding! ✨
