@@ -1,58 +1,34 @@
 **`Software Engineer`**
 
 # 💫 About Me:
-I'm a passionate software developer with a focus on full-stack development, data science, and machine learning. I love building efficient and scalable solutions and collaborating on open-source projects.
+<h3>I'm a passionate software developer with a focus on full-stack development, data science, and machine learning. I love building efficient and scalable solutions and collaborating on open-source projects.
+</h3>
 
 ## 🌐 Socials And Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lucategano) [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lucategano.netlify.app/)
 ## 🚀 REAL PRODUCTS I BUILT
 <details>
-  <summary><b>StudyBuddyAI</b></summary>
-  <br/>
-  <p>
-    [A brief, 1-2 sentence description of your project.]
-  </p>
-  <p><b>Tech Stack:</b></p>
-  <p>
-    <!-- Add badges for the technologies you used in this project -->
-    ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  </p>
-  <p>
-    <a href="[YOUR_GITHUB_REPO_LINK]"><b>View Code »</b></a>
-  </p>
+  <summary><h3>StudyBuddyAI</h3></summary>
+  
+  Full-stack SaaS that empowers students to manage notes and interact with an AI assistant for contextual learning.
+  
+  * Integrated the **Gemini API** to provide real-time, context-aware AI chat, enabling personalized assistance directly within the user's notes.
+  
+  **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  
+  <a href="https://github.com/LucaTegano/buddy-ai-v2"><b>View Code »</b></a>
 </details>
 
 <details>
-  <summary><b>UniCode</b></summary>
-  <br/>
-  <p>
-● Delivered full-stack SaaS web application to help students practice programming problems aligned with
-university exam formats, featuring in-app code execution.
-    
-● Built a scalable backend using AWS API Gateway, Lambda functions, and DynamoDB, enabling low
-latency serverless architecture and seamless API integrations.
-
-● Implemented a responsive React frontend with real-time functionality using Firebase Authentication and
-Firestore for user management and session tracking.
-
-● Created and curated 30+ Python coding challenges with detailed solutions, covering core computer
-science concepts such as recursion, data structures, and algorithm design.
-  </p>
-  <p><b>Tech Stack:</b></p>
-  <p>
-    <!-- Add badges for the technologies you used in this project -->
-    ![TypeScrip](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-    ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) 
-  </p>
-  <p>
-    <!-- Add links to your live demo and repository -->
-    <a href="[YOUR_LIVE_DEMO_LINK]"><b>View Live»</b></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="[YOUR_GITHUB_REPO_LINK]"><b>View Code »</b></a>
-  </p>
-  <!-- Optional: Add a screenshot or GIF below -->
-  <!-- <img src="[LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF]" alt="Project Demo"/> -->
+  <summary><h3>UniCode</h3></summary>
+  
+  Full-stack app to help students practice programming problems aligned with university exam formats, featuring in-app code execution.
+  
+  * Created and curated **30+ Python coding challenges** with detailed solutions, covering core computer science concepts.
+  
+  **Tech Stack:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  
+  <a href="https://unicodemaster.netlify.app/"><b>View Live »</b></a>
 </details>
 
 ## 💻 Tech Stack:
@@ -67,6 +43,18 @@ Other: ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge
 Developer Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## STATS
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaTegano&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Luca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucaTegano&show_icons=true&theme=vision-friendly-dark&count_private=true" />
+  </a>
+</p>
+&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaTegano&layout=compact&theme=vision-friendly-dark" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+</p>
 
-<p align="center">Happy coding! ✨</p>
+<h3 align="center">Happy coding! ✨</h3>
