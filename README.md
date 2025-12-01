@@ -30,7 +30,7 @@
   
   **Tech Stack:** <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)   <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   
-  <a href="https://unicodemaster.netlify.app/"><b>View Live »</b></a>
+  <a href="https://unicodemaster.it/"><b>View Live »</b></a>
 </details>
 
 ## 💻 Tech Stack:
