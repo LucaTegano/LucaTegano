@@ -52,8 +52,8 @@ Developer Tools:
 ## STATS
 &nbsp;&nbsp;&nbsp;
 <p align="center">
-  <h1>GitHub Activity </h1>
- [Link Text](https://ghchart.rshah.org/LucaTegano)
+  <h1>GitHub Activity</h1>
+ [GitHub Activity](https://ghchart.rshah.org/LucaTegano)
 </p>
 
 <p align="center">
