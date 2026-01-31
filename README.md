@@ -53,7 +53,7 @@ Developer Tools:
 &nbsp;&nbsp;&nbsp;
 <p align="center">
   <h1>GitHub Activity</h1>
- [GitHub Activity](https://ghchart.rshah.org/LucaTegano)
+![GitHub Contribution Graph](https://ghchart.rshah.org/LucaTegano)
 </p>
 
 <p align="center">
