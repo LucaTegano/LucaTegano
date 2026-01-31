@@ -52,6 +52,11 @@ Developer Tools:
 ## STATS
 &nbsp;&nbsp;&nbsp;
 <p align="center">
+  <h1>GitHub Activity </h1>
+ [Link Text](https://ghchart.rshah.org/LucaTegano)
+</p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Luca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucaTegano&show_icons=true&theme=vision-friendly-dark&count_private=true" />
   </a>
