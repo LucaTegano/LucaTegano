@@ -52,9 +52,6 @@ Developer Tools:
 ## STATS
 &nbsp;&nbsp;&nbsp;
 <p align="center">
-  <h1>GitHub Activity</h1>
-![GitHub Contribution Graph](https://ghchart.rshah.org/LucaTegano)
-</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
