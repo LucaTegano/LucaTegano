@@ -1,4 +1,8 @@
 **`Software Engineer`**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Luca+Tegano;CS+Student+at+Unical+;Building+AI+%2B+Full+Stack+Systems" />
+</h1>
+
 
 # 💫 About Me:
 <h3>I'm a passionate software developer with a focus on full-stack development, data science, and machine learning. I love building efficient and scalable solutions and collaborating on open-source projects.
