@@ -34,22 +34,46 @@
 </details>
 
 ## 💻 Tech Stack:
-Languages:
-<p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td><b>Languages:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,dart&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,spring,nodejs,flutter&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>UI Libraries & Frameworks:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,postman,git,linux&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-Frameworks/Libraries:
-<p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
-Databases:
-<p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="40" height="40"/> </a> </p>
-
-Other:
-<p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
-
-Developer Tools:
-<p align="left"> <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-## STATS
+## Stats:
 &nbsp;&nbsp;&nbsp;
 <p align="center">
 
@@ -66,4 +90,10 @@ Developer Tools:
   &nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center">Happy coding! ✨</h3>
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
+
+<h3>Happy coding! ✨</h3>
+
+</div>
