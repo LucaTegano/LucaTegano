@@ -81,11 +81,6 @@
 &nbsp;&nbsp;&nbsp;
 <p align="center">
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Luca's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucaTegano&show_icons=true&theme=vision-friendly-dark&count_private=true" />
-  </a>
-</p>
 &nbsp;&nbsp;&nbsp;
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
