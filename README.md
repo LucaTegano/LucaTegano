@@ -4,7 +4,7 @@
 </h1>
 
 # 💫 About Me:
-<h3>I'm a passionate software developer with a focus on full-stack development, data science, and machine learning. I love building efficient and scalable solutions and collaborating on open-source projects.
+<h3>I'm a passionate software developer with a focus on full-stack development and infrastructure I love building efficient and scalable solutions and collaborating on open-source projects.
 </h3>
 
 ## 🌐 Socials And Contacts:
